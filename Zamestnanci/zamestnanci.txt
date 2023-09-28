@@ -1,0 +1,10 @@
+V nasom podniku pracuju nasledovni zamestnanci:
+Osc: 100. Karol Smely, s platom:   1500,00  
+Osc: 101. Janka Cistotna, s platom:    600,00  
+Osc: 102. Alica Krasna, s platom:    800,00  
+Osc: 103. Jozef Megakoder, s platom:   1200,00  
+Osc: 104. Petra Krasna, s platom:    450,00  
+Osc: 105. Zuzana Testerova, s platom:    500,00  
+Osc: 106. Andrej Koder, s platom:   1000,00  
+Osc: 107. Ivetka Kontrolna, s platom:    800,00  
+Osc: 108. Milan Systemovy, s platom:    900,00  
